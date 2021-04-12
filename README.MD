@@ -19,3 +19,5 @@ More specifically, we ask for the candidates to:
 - choose and justify evaluation strategies for the given problem.
 
 We will discuss the candidate's solution during the interview.
+
+We would appreciate if the candidate can share their solution beforehand with us, through a *private repository* to which Cynthia Liem (@informusica) is invited.
