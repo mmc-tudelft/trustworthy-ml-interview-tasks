@@ -1,3 +1,6 @@
+
+**IMPORTANT: PLEASE DO NOT WATCH, STAR OR FORK THIS REPOSITORY, TO PRESERVE YOUR ANONYMITY AS A CANDIDATE!!!**
+
 Data analysis assignment
 =====
 
@@ -20,5 +23,3 @@ More specifically, we ask for the candidates to:
 We will discuss the candidate's solution during the interview.
 
 We would appreciate if the candidate can share their solution beforehand with us, through a **private repository** to which Cynthia Liem (@informusica) is invited.
-
-**PLEASE DO NOT FORK OR STAR THIS REPOSITORY, TO PRESERVE YOUR ANONYMITY AS A CANDIDATE!!!**
